@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>Resources/add_normal.png</file>
+        <file>Resources/equipment_normal.png</file>
+        <file>Resources/help_normal.png</file>
+        <file>Resources/immortal.png</file>
+        <file>Resources/immortal_change.png</file>
+        <file>Resources/info_normal.png</file>
+        <file>Resources/items_normal.png</file>
+        <file>Resources/logout_normal.png</file>
+        <file>Resources/lower_normal.png</file>
+        <file>Resources/message.png</file>
+        <file>Resources/modify_normal.png</file>
+        <file>Resources/Msg_normal.png</file>
+        <file>Resources/option_normal.png</file>
+        <file>Resources/Party_normal.png</file>
+        <file>Resources/plugin_normal.png</file>
+        <file>Resources/remove_normal.png</file>
+        <file>Resources/run_normal.png</file>
+        <file>Resources/setting_normal.png</file>
+        <file>Resources/skills_normal.png</file>
+        <file>Resources/upper_normal.png</file>
+        <file>Resources/welcome.png</file>
+    </qresource>
+</RCC>
